@@ -5,6 +5,7 @@
 # No module named 'Crypto'解决方案: https://segmentfault.com/a/1190000039335378
 # webdriver Python FileNotFoundError: [WinError 2]: https://blog.csdn.net/u014094184/article/details/80085336
 # 手动登录 https://blog.csdn.net/q965844841qq/article/details/105708138
+# 注意 .\chrome.exe --remote-debugging-port=9999 --user-data-dir="C:\test" 命令中--remote-debugging-port是一体的，不要加多余空格，启动后chrome后，localhost:9999/json能够正常打开
 """
 introduction: a simple python crawler for wqbook.wqxuetang.com
 """
